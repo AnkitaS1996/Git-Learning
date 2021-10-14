@@ -3,7 +3,7 @@ Hello....
 /****   Git Commands   ****/
 
 git config --global user.name
-git config –global user.email
-git add 'file name'
+git config –-global user.email
+git add 'File Name'
 git comments -m "Add Comment"
 git push origin master
