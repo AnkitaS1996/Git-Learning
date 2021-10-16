@@ -2,8 +2,11 @@ Hello....
 
 /****   Git Commands   ****/
 
-git config --global user.name
-git config –-global user.email
+git config --global user.name Your_Username
+git config –-global user.email Your_EmailID
+git init 
+git remote add origin <Repository_URL>
 git add 'File Name'
-git comments -m "Add Comment"
+git comment -m "Add Comment"
 git push origin master
+git pull origin master
