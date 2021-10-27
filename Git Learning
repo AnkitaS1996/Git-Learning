@@ -10,3 +10,6 @@ git add 'File Name'
 git comment -m "Add Comment"
 git push origin master
 git pull origin master
+git status
+git help --all
+git checkout [branch name]  
