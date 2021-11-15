@@ -13,3 +13,4 @@ git pull origin master
 git status
 git help --all
 git checkout [branch name]  
+git clone <repository URL>      ////backup files Recover
