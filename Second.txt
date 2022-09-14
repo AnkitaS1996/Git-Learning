@@ -1,2 +1,11 @@
 Hiii
 Hello
+
+Write Below Basic C Code 
+
+#include<stdio.h>
+int main() 
+{
+   printf("\n Hello World....!!");
+   return 0;
+}
