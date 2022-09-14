@@ -1,7 +1,7 @@
 Hiii
 Hello
 
-Write Below Basic C Code 
+//Write Below Basic C Code 
 
 #include<stdio.h>
 int main() 
