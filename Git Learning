@@ -7,7 +7,7 @@ git config –-global user.email Your_EmailID
 git init 
 git remote add origin <Repository_URL>
 git add 'File Name'
-git comment -m "Add Comment"
+git commit -m "Add Comment"
 git push origin master
 git pull origin master
 git status
